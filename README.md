@@ -1,2 +1,2 @@
 # first
-第一次使用Git
+Java API连接hdfs
